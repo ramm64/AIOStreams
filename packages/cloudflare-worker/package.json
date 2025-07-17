@@ -2,6 +2,7 @@
   "name": "@aiostreams/cloudflare-worker",
   "version": "1.21.1",
   "scripts": {
+    "build": "echo 'No build needed'",
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev",
